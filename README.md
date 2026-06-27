@@ -1,6 +1,7 @@
 # Projeto-POO2
 
-** Refatoração das Etapas 2 a 5
+# Refatoração das Etapas 2 a 5
+
 Este documento apresenta as alterações realizadas durante a refatoração do projeto, com o objetivo de reorganizar a estrutura do sistema utilizando conceitos de Programação Orientada a Objetos. 
 As modificações foram divididas em três etapas, contemplando abstração, herança e associação entre as classes.
 ---
