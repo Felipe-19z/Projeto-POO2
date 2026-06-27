@@ -1,11 +1,11 @@
 # Projeto-POO2
 Melhoria do projeto da AV1
 
-## 🧑‍💻 Detalhamento de Implementação — Integrante 2
+## 🧑‍💻 Detalhamento de Implementação
 
 Esta seção descreve a evolução da arquitetura do sistema nas camadas de encapsulamento, contratos de interfaces, processamento financeiro polimórfico e modelagem de associações estruturais avançadas (UML). O trabalho foi segmentado em três blocos funcionais para garantir o versionamento incremental do código:
 
-### 📦 BLOCO 1 — Etapas 6 e 7: Encapsulamento, Validações e Interfaces de Contrato
+### 📦 Commit 1 — Etapas 6 e 7: Encapsulamento, Validações e Interfaces de Contrato
 
 #### ⚙️ Como funciona:
 Este bloco foca estritamente na segurança dos dados em memória e no estabelecimento de contratos comportamentais da aplicação.
@@ -15,7 +15,7 @@ Este bloco foca estritamente na segurança dos dados em memória e no estabeleci
 
 ---
 
-### 📦 BLOCO 2 — Etapa 8: Polimorfismo e Regras de Pagamento Específicas
+### 📦 Commit 2 — Etapa 8: Polimorfismo e Regras de Pagamento Específicas
 
 #### ⚙️ Como funciona:
 Este bloco elimina estruturas condicionais genéricas (`if/else`) na camada de faturamento, substituindo-as por uma arquitetura polimórfica robusta e escalável.
@@ -27,7 +27,7 @@ Este bloco elimina estruturas condicionais genéricas (`if/else`) na camada de f
 
 ---
 
-### 📦 BLOCO 3 — Etapa 9: Modelagem Semântica de Relacionamentos (Agregação e Composição)
+### 📦 Commit 3 — Etapa 9: Modelagem Semântica de Relacionamentos (Agregação e Composição)
 
 #### ⚙️ Como funciona:
 Este bloco traduz para o código-fonte as restrições de ciclo de vida e acoplamento estabelecidas no diagrama de classes UML do sistema.
